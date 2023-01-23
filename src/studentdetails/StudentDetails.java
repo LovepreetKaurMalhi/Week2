@@ -26,6 +26,7 @@ public class StudentDetails {
 
     /**
      * @param name the name to set
+     * this is the branch.
      */
     public void setName(String name) {
         this.name = name;
